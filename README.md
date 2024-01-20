@@ -2,7 +2,7 @@
 
 2023-11-27 ~ 2024-01-20
 
-<h2>Refernce<h2>
+<h2>Refernce</h2>
   
 React Blog Website Design Tutorial | React UI Full Course for Beginners <p>
 By Lama Dev<p>
