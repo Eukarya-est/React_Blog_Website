@@ -45,10 +45,33 @@
 
 .topListItem{
     margin-right: 20px;
+    padding: 5px;
     font-size: 18px;
     font-weight: 300;
+    border : 5px solid transparent;
     cursor: pointer;
 }
+
+.topListItem:hover{
+    filter: hue-rotate(360deg);
+    color: white;
+    border-radius : 5px;
+    border: 5px solid transparent;
+    background-image: linear-gradient(black,black), linear-gradient(to left,#37a9fa,#5951f3);
+    background-clip : padding-box, border-box;
+    background-origin: border-box;
+    animation : huerotate 6s infinite linear;
+    
+}
+
+@keyframes huerotate {
+    0% {
+    filter: hue-rotate(0deg);
+    }
+    100% {
+    filter: hue-rotate(360deg);
+    }
+  }
 
 .topSearchIcon{
     font-size: 18px;

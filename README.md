@@ -2,7 +2,8 @@
 
 2023-11-27 ~ 2024-01-20
 
-<h2>Refernce<h2>
-React Blog Website Design Tutorial | React UI Full Course for Beginners 
-By Lama Dev
+<h2>Reference</h2>
+  
+React Blog Website Design Tutorial | React UI Full Course for Beginners <p>
+By Lama Dev<p>
 https://www.youtube.com/watch?v=tlTdbc5byAs&t=5499s
